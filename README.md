@@ -56,9 +56,9 @@ URL: http://127.0.0.1:5000/api/v1/register
 
 ```js        
 {
-    "user_name": "Jose",
-    "login": "thecaasantos",
-    "password": "slc89slo",
+    "user_name": "Name",
+    "login": "login",
+    "password": "password",
     "user_role": 1
 }
 ```
@@ -83,8 +83,8 @@ URL: http://127.0.0.1:5000/api/v1/login
 
 ```js        
 {
-    "login": "thecaasantos",
-    "password": "slc89slo"
+    "login": "login",
+    "password": "password"
 }
 ```
 
