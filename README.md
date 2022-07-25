@@ -134,30 +134,6 @@ URL: http://127.0.0.1:5000/api/v1/logout
 
 
 
-### 5. Logout2
-
-
-
-***Endpoint:***
-
-```bash
-Method: DELETE
-Type: 
-URL: http://127.0.0.1:5000/api/v1/logout2
-```
-
-
-***Headers:***
-
-| Key | Value | Description |
-| --- | ------|-------------|
-| Authorization | Bearer |  |
-|  | eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTY1NTg5NzE2OSwianRpIjoiMjYyYmMxNjQtODZkZC00N2IyLThiYjEtNzI5ZGE1YzlkYjYzIiwidHlwZSI6ImFjY2VzcyIsInN1YiI6eyJ1c2VyX3JvbGUiOjEsInVzZXJfbmFtZSI6Ikpvc2UiLCJpZF91c2VyIjoxLCJwYXNzd29yZCI6InBia2RmMjpzaGEyNTY6MjYwMDAwJGxqa1lSQUN2RlBYSlpTcEwkMDgxODAxZTI2ZmZiMmNhMWQ5YjYwOWE0YzA0ODJkZTljMzc0NTA2NTQ3MDIyZDk4NGY5NWNlM2M2YjNlNTQwMiIsImxvZ2luIjoidGhlY2Fhc2FudG9zIn0sIm5iZiI6MTY1NTg5NzE2OSwiZXhwIjoxNjU1ODk4OTY5fQ.BQu0uTnuBIehn7L-jQ2889AJFIIHngkse9s_npmAlu6Wyo43CdLQnuC0KErYxK9XGl5aVYmJVgj-7wfbKfs1fA |  |
-
-
-
-## Users
-
 
 
 ### 1. Users list
